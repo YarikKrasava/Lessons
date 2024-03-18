@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+       <title>Сайт Клунко</title>
+
+</head>
+
+<body>
+
+        Добрий день
+
+</body>
+
+</html>
